@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: silver;
+}
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+p{
+    display: block;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.hello_text{
+    display: inline-block;
+    width: 8100px;
+    margin-top: 250px;
+    align-items: left;
+    text-align: center;
+    border: solid 2px black;
+}
+.form_row{
+    text-align: center;
+}
+.cat_ava{
+    width: 200px;
+    height: 200px;
+}
+.form-select{
+    width: 200px;
+}
+.card{
+    margin-top: 510px;
+}
+
+.choice{
+    color: red;
+}
